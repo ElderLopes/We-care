@@ -9,8 +9,10 @@
   -CSS
   <br>
   <br>
-<img src="https://github.com/ElderLopes/We-care/blob/master/img/iMac%2027-inch%20Mockup.png?raw=true" width= 400px/>
-<br>
-  <h3> Projeto Responsivel</h3>
+  <h3> Projeto Responsivo </h3>
   <br>
-  <img src="https://github.com/ElderLopes/We-care/blob/master/img/Pixel%207%20Pro%20Mockup.png?raw=true" width= 150px/>
+  
+<img src="https://github.com/ElderLopes/We-care/blob/master/img/iMac%2027-inch%20Mockup.png?raw=true" width= 400px /><img src="https://github.com/ElderLopes/We-care/blob/master/img/Pixel%207%20Pro%20Mockup.png?raw=true" width= 150px/>
+  <br>
+  
+
