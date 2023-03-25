@@ -5,3 +5,4 @@
 <br>
 <br>
 <br>
+<img src="https://github.com/ElderLopes/We-care/blob/master/img/iMac%2027-inch%20Mockup.png?raw=true"/>
